@@ -1,0 +1,2 @@
+it seems number of possible games for each step can be directly found by coefficient of expansion
+	(1+2*x)^n where here n is 9
